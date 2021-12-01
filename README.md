@@ -1,5 +1,5 @@
 # A web application project to classify MedNIST Image Dataset using Deep Learning with PyTorch and Flask,  js and Azure.
-## Requirements
+
 
 ## Local Deployment
 
